@@ -1,0 +1,14 @@
+C:\Users\Luis\Documents\Tutoriales\ASP .NET\Sistema\Sistema.Datos\bin\Debug\netcoreapp2.2\Sistema.Datos.deps.json
+C:\Users\Luis\Documents\Tutoriales\ASP .NET\Sistema\Sistema.Datos\bin\Debug\netcoreapp2.2\Sistema.Datos.dll
+C:\Users\Luis\Documents\Tutoriales\ASP .NET\Sistema\Sistema.Datos\obj\Debug\netcoreapp2.2\Sistema.Datos.csprojAssemblyReference.cache
+C:\Users\Luis\Documents\Tutoriales\ASP .NET\Sistema\Sistema.Datos\obj\Debug\netcoreapp2.2\Sistema.Datos.csproj.CoreCompileInputs.cache
+C:\Users\Luis\Documents\Tutoriales\ASP .NET\Sistema\Sistema.Datos\obj\Debug\netcoreapp2.2\Sistema.Datos.AssemblyInfoInputs.cache
+C:\Users\Luis\Documents\Tutoriales\ASP .NET\Sistema\Sistema.Datos\obj\Debug\netcoreapp2.2\Sistema.Datos.AssemblyInfo.cs
+C:\Users\Luis\Documents\Tutoriales\ASP .NET\Sistema\Sistema.Datos\bin\Debug\netcoreapp2.2\Sistema.Datos.runtimeconfig.json
+C:\Users\Luis\Documents\Tutoriales\ASP .NET\Sistema\Sistema.Datos\bin\Debug\netcoreapp2.2\Sistema.Datos.runtimeconfig.dev.json
+C:\Users\Luis\Documents\Tutoriales\ASP .NET\Sistema\Sistema.Datos\bin\Debug\netcoreapp2.2\Sistema.Datos.pdb
+C:\Users\Luis\Documents\Tutoriales\ASP .NET\Sistema\Sistema.Datos\bin\Debug\netcoreapp2.2\Sistema.Entidades.dll
+C:\Users\Luis\Documents\Tutoriales\ASP .NET\Sistema\Sistema.Datos\bin\Debug\netcoreapp2.2\Sistema.Entidades.pdb
+C:\Users\Luis\Documents\Tutoriales\ASP .NET\Sistema\Sistema.Datos\obj\Debug\netcoreapp2.2\Sistema.Datos.csproj.CopyComplete
+C:\Users\Luis\Documents\Tutoriales\ASP .NET\Sistema\Sistema.Datos\obj\Debug\netcoreapp2.2\Sistema.Datos.dll
+C:\Users\Luis\Documents\Tutoriales\ASP .NET\Sistema\Sistema.Datos\obj\Debug\netcoreapp2.2\Sistema.Datos.pdb
